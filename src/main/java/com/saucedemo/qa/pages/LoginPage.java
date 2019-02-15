@@ -26,10 +26,11 @@ public class LoginPage extends TestBase {
 		return driver.getTitle();
 	}
 
-	public void login(String un, String pwd) {
+	public InventoryPage login(String un, String pwd) {
 		username.sendKeys(un);
 		password.sendKeys(pwd);
 		loginButton.click();
+		return new InventoryPage();
 	}
 
 }
