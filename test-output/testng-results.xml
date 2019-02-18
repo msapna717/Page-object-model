@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21959" started-at="2019-02-18T05:46:54Z" finished-at="2019-02-18T05:47:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21959" started-at="2019-02-18T05:46:54Z" finished-at="2019-02-18T05:47:16Z">
+      <class name="com.saucedemo.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.saucedemo.qa.testcases.LoginPageTest@39c0f4a]" name="setup" is-config="true" duration-ms="9361" started-at="2019-02-18T05:46:54Z" finished-at="2019-02-18T05:47:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPageTitleVerify()[pri:1, instance:com.saucedemo.qa.testcases.LoginPageTest@39c0f4a]" name="loginPageTitleVerify" duration-ms="25" started-at="2019-02-18T05:47:04Z" description="Testcase 1: verify page title is correct or not" finished-at="2019-02-18T05:47:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleVerify -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.qa.testcases.LoginPageTest@39c0f4a]" name="tearDown" is-config="true" duration-ms="118" started-at="2019-02-18T05:47:04Z" finished-at="2019-02-18T05:47:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.saucedemo.qa.testcases.LoginPageTest@39c0f4a]" name="setup" is-config="true" duration-ms="7084" started-at="2019-02-18T05:47:04Z" finished-at="2019-02-18T05:47:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:com.saucedemo.qa.testcases.LoginPageTest@39c0f4a]" name="loginTest" duration-ms="5174" started-at="2019-02-18T05:47:11Z" description="Testcase 2: Verify user is able to login with valid credentials" finished-at="2019-02-18T05:47:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.saucedemo.qa.testcases.LoginPageTest@39c0f4a]" name="tearDown" is-config="true" duration-ms="115" started-at="2019-02-18T05:47:16Z" finished-at="2019-02-18T05:47:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

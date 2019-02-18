@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Pom Test Suite">
+	<test name="Pom Test cases">
+		<classes>
+			<class name="com.saucedemo.qa.testcases.LoginPageTest" />
+			<class name="com.saucedemo.qa.testcases.InventoryPageTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
