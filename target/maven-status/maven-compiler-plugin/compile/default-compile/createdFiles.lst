@@ -1,0 +1,12 @@
+com/saucedemo/qa/pages/CheckoutStep1Page.class
+com/saucedemo/qa/util/BootstrapDropboxHandling2EnhancedForLoop.class
+com/saucedemo/qa/pages/CheckoutStep2Page.class
+com/saucedemo/qa/pages/LoginPage.class
+com/saucedemo/qa/base/TestBase.class
+com/saucedemo/qa/util/BootstrapDropboxHandling.class
+com/saucedemo/qa/util/BootstrapDropboxHandling2.class
+com/saucedemo/qa/util/NestedFrames.class
+com/saucedemo/qa/pages/CartPage.class
+com/saucedemo/qa/util/TestUtil.class
+com/saucedemo/qa/pages/ThankYouPage.class
+com/saucedemo/qa/pages/InventoryPage.class
